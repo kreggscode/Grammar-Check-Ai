@@ -74,23 +74,23 @@
 
 #### Loading Animation
 <div align="center">
-  <img src="https://via.placeholder.com/600x400/10b981/ffffff?text=Loading+Animation+-+Take+Screenshot+from+Extension" alt="Loading Animation" width="70%">
+  <img src="https://raw.githubusercontent.com/kreggscode/Grammar-Check-Ai/main/extension-loading-animation.png" alt="Loading Animation" width="70%">
   <p><em>Stunning loading animation with pulsing effects and progress indicators</em></p>
-  <small><em>📸 Take this screenshot while using the extension on any webpage</em></small>
+  <small><em>✨ Beautiful animated feedback while AI processes your text</em></small>
 </div>
 
 #### Grammar Results
 <div align="center">
-  <img src="https://via.placeholder.com/600x400/059669/ffffff?text=AI+Grammar+Results+-+Take+Screenshot+from+Extension" alt="Grammar Results" width="70%">
+  <img src="https://raw.githubusercontent.com/kreggscode/Grammar-Check-Ai/main/extension-grammar-results.png" alt="Grammar Results" width="70%">
   <p><em>Comprehensive AI analysis with quality scores and detailed corrections</em></p>
-  <small><em>📸 Take this screenshot after checking grammar on sample text</em></small>
+  <small><em>🎯 Detailed grammar analysis with actionable suggestions</em></small>
 </div>
 
 #### Copy Features
 <div align="center">
-  <img src="https://via.placeholder.com/600x400/3b82f6/ffffff?text=Copy+Corrections+-+Take+Screenshot+from+Extension" alt="Copy Features" width="70%">
+  <img src="https://raw.githubusercontent.com/kreggscode/Grammar-Check-Ai/main/extension-copy-features.png" alt="Copy Features" width="70%">
   <p><em>Easy copy functionality for all corrections and suggestions</em></p>
-  <small><em>📸 Take this screenshot when using copy buttons in results</em></small>
+  <small><em>📋 One-click copying of corrections and writing tips</em></small>
 </div>
 
 ---
