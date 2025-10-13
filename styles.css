@@ -1,0 +1,182 @@
+/* Grammar Check Pro Extension Styles */
+
+/* Hide the extension UI elements by default */
+#grammar-check-button,
+#grammar-suggestions-panel {
+  display: none !important;
+}
+
+/* Ensure text selection works properly */
+* {
+  -webkit-user-select: text !important;
+  -moz-user-select: text !important;
+  -ms-user-select: text !important;
+  user-select: text !important;
+}
+
+/* Prevent interference with page styles */
+#grammar-check-button *,
+#grammar-suggestions-panel * {
+  box-sizing: border-box !important;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif !important;
+}
+
+/* Animation for the grammar check button */
+#grammar-check-button > div {
+  transition: all 0.2s ease !important;
+}
+
+#grammar-check-button > div:hover {
+  background: #3367d6 !important;
+  transform: translateY(-1px) !important;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.2) !important;
+}
+
+#grammar-check-button > div:active {
+  transform: translateY(0) !important;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15) !important;
+}
+
+/* Scrollbar styling for suggestions panel */
+#grammar-suggestions-panel::-webkit-scrollbar {
+  width: 6px !important;
+}
+
+#grammar-suggestions-panel::-webkit-scrollbar-track {
+  background: #f1f1f1 !important;
+  border-radius: 3px !important;
+}
+
+#grammar-suggestions-panel::-webkit-scrollbar-thumb {
+  background: #c1c1c1 !important;
+  border-radius: 3px !important;
+}
+
+#grammar-suggestions-panel::-webkit-scrollbar-thumb:hover {
+  background: #a8a8a8 !important;
+}
+
+/* Loading animation */
+@keyframes pulse {
+  0% { opacity: 1; }
+  50% { opacity: 0.5; }
+  100% { opacity: 1; }
+}
+
+.grammar-loading {
+  animation: pulse 1.5s ease-in-out infinite !important;
+}
+
+/* Grammar check button pulse animation */
+#grammar-check-button > div {
+  animation: grammarPulse 2s ease-in-out infinite !important;
+}
+
+@keyframes grammarPulse {
+  0% {
+    box-shadow: 0 4px 16px rgba(66, 133, 244, 0.4) !important;
+    transform: scale(1) !important;
+  }
+  50% {
+    box-shadow: 0 6px 24px rgba(66, 133, 244, 0.6) !important;
+    transform: scale(1.02) !important;
+  }
+  100% {
+    box-shadow: 0 4px 16px rgba(66, 133, 244, 0.4) !important;
+    transform: scale(1) !important;
+  }
+}
+
+@keyframes fallbackPulse {
+  0% {
+    box-shadow: 0 4px 16px rgba(255, 107, 107, 0.4) !important;
+    transform: scale(1) !important;
+  }
+  50% {
+    box-shadow: 0 6px 20px rgba(255, 107, 107, 0.6) !important;
+    transform: scale(1.05) !important;
+  }
+  100% {
+    box-shadow: 0 4px 16px rgba(255, 107, 107, 0.4) !important;
+    transform: scale(1) !important;
+  }
+}
+
+#grammar-fallback-button > div {
+  animation: fallbackPulse 1.5s ease-in-out infinite !important;
+}
+
+/* Highlight corrected text */
+.grammar-highlight {
+  background-color: #fff3cd !important;
+  border-bottom: 2px solid #ffc107 !important;
+  padding: 2px 4px !important;
+  border-radius: 2px !important;
+  cursor: pointer !important;
+  transition: background-color 0.2s ease !important;
+}
+
+.grammar-highlight:hover {
+  background-color: #ffeaa7 !important;
+}
+
+/* Error states */
+.grammar-error {
+  border: 1px solid #dc3545 !important;
+  background-color: #f8d7da !important;
+}
+
+/* Success states */
+.grammar-success {
+  border: 1px solid #28a745 !important;
+  background-color: #d4edda !important;
+}
+
+/* Button hover effects */
+.grammar-button {
+  transition: all 0.2s ease !important;
+  cursor: pointer !important;
+}
+
+.grammar-button:hover {
+  opacity: 0.8 !important;
+  transform: scale(1.02) !important;
+}
+
+.grammar-button:active {
+  transform: scale(0.98) !important;
+}
+
+/* Responsive design for smaller screens */
+@media (max-width: 600px) {
+  #grammar-suggestions-panel {
+    max-width: calc(100vw - 20px) !important;
+    min-width: calc(100vw - 20px) !important;
+    left: 10px !important;
+  }
+
+  #grammar-check-button {
+    transform: scale(0.9) !important;
+  }
+}
+
+/* High contrast mode support */
+@media (prefers-contrast: high) {
+  #grammar-check-button > div {
+    border: 2px solid #000 !important;
+  }
+
+  #grammar-suggestions-panel {
+    border: 2px solid #000 !important;
+  }
+}
+
+/* Reduced motion support */
+@media (prefers-reduced-motion: reduce) {
+  #grammar-check-button > div,
+  .grammar-button,
+  .grammar-highlight {
+    transition: none !important;
+    animation: none !important;
+  }
+}
