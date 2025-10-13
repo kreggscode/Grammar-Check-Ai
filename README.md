@@ -12,7 +12,7 @@
 
 **Transform your writing with AI-powered grammar checking, anywhere on the web!**
 
-![Grammar Check Pro Demo](https://via.placeholder.com/800x400/10b981/ffffff?text=Grammar+Check+Pro+Demo)
+![Grammar Check Pro Demo](https://via.placeholder.com/800x400/10b981/ffffff?text=Landing+Page+Screenshot)
 
 </div>
 
@@ -46,14 +46,49 @@
 
 ## 📸 Screenshots
 
-### Loading Animation
-![Loading Animation](https://via.placeholder.com/600x400/10b981/ffffff?text=Beautiful+Loading+Animation)
+### 🌟 Landing Page Preview
+<div align="center">
+  <img src="https://via.placeholder.com/800x600/667eea/ffffff?text=Landing+Page+Hero+Section" alt="Landing Page Hero" width="80%">
+  <p><em>Beautiful landing page with gradient hero section and feature overview</em></p>
+</div>
 
-### Grammar Results
-![Grammar Results](https://via.placeholder.com/600x400/059669/ffffff?text=AI+Grammar+Results)
+### 🎨 Landing Page Features
+<div align="center">
+  <img src="https://via.placeholder.com/800x400/10b981/ffffff?text=Features+Section" alt="Features Section" width="80%">
+  <p><em>Comprehensive features showcase with icons and descriptions</em></p>
+</div>
 
-### Copy Features
-![Copy Features](https://via.placeholder.com/600x400/3b82f6/ffffff?text=Copy+Corrections)
+### 📱 Landing Page How It Works
+<div align="center">
+  <img src="https://via.placeholder.com/800x400/059669/ffffff?text=How+It+Works+Section" alt="How It Works" width="80%">
+  <p><em>Step-by-step user guide with numbered process</em></p>
+</div>
+
+### 💬 Landing Page Testimonials
+<div align="center">
+  <img src="https://via.placeholder.com/800x400/7c3aed/ffffff?text=Testimonials+Section" alt="Testimonials" width="80%">
+  <p><em>User testimonials and social proof</em></p>
+</div>
+
+### 🔧 Extension Features
+
+#### Loading Animation
+<div align="center">
+  <img src="https://via.placeholder.com/600x400/10b981/ffffff?text=Beautiful+Loading+Animation" alt="Loading Animation" width="70%">
+  <p><em>Stunning loading animation with pulsing effects and progress indicators</em></p>
+</div>
+
+#### Grammar Results
+<div align="center">
+  <img src="https://via.placeholder.com/600x400/059669/ffffff?text=AI+Grammar+Results" alt="Grammar Results" width="70%">
+  <p><em>Comprehensive AI analysis with quality scores and detailed corrections</em></p>
+</div>
+
+#### Copy Features
+<div align="center">
+  <img src="https://via.placeholder.com/600x400/3b82f6/ffffff?text=Copy+Corrections" alt="Copy Features" width="70%">
+  <p><em>Easy copy functionality for all corrections and suggestions</em></p>
+</div>
 
 ---
 
