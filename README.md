@@ -7,6 +7,8 @@
 [![Chrome Web Store](https://img.shields.io/badge/Chrome-Web%20Store-blue.svg)](https://chrome.google.com/webstore)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-orange.svg)](https://kreggscode.github.io/Grammar-Check-Ai/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green.svg)](https://kreggscode.github.io/Grammar-Check-Ai/)
+[![Privacy Policy](https://img.shields.io/badge/Privacy-Policy-blue.svg)](https://kreggscode.github.io/Grammar-Check-Ai/privacy-policy.html)
 
 **Transform your writing with AI-powered grammar checking, anywhere on the web!**
 
@@ -78,6 +80,10 @@ cd Grammar-Check-Ai
 3. Click "Load unpacked"
 4. Select this folder
 ```
+
+### 🌐 Live Documentation
+- **[🏠 Landing Page](https://kreggscode.github.io/Grammar-Check-Ai/)** - Full feature overview and demo
+- **[🔒 Privacy Policy](https://kreggscode.github.io/Grammar-Check-Ai/privacy-policy.html)** - Complete privacy information
 
 ---
 
@@ -217,11 +223,17 @@ This project uses Pollinations.AI API - see their terms of service
 
 ---
 
-## 📞 Support
+## 📞 Support & Documentation
 
-- **Issues**: [GitHub Issues](https://github.com/kreggscode/Grammar-Check-Ai/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/kreggscode/Grammar-Check-Ai/discussions)
-- **Email**: For business inquiries
+### 📖 Documentation
+- **[🏠 Live Landing Page](https://kreggscode.github.io/Grammar-Check-Ai/)** - Interactive feature overview
+- **[🔒 Privacy Policy](https://kreggscode.github.io/Grammar-Check-Ai/privacy-policy.html)** - Complete privacy information
+- **[📚 GitHub Wiki](https://github.com/kreggscode/Grammar-Check-Ai/wiki)** - Extended documentation
+
+### 🆘 Support Channels
+- **🐛 Issues**: [GitHub Issues](https://github.com/kreggscode/Grammar-Check-Ai/issues)
+- **💬 Discussions**: [GitHub Discussions](https://github.com/kreggscode/Grammar-Check-Ai/discussions)
+- **📧 Email**: For business inquiries
 
 ---
 
@@ -232,6 +244,7 @@ This project uses Pollinations.AI API - see their terms of service
 **Made with ❤️ for writers, students, and professionals worldwide**
 
 [🌐 Live Demo](https://kreggscode.github.io/Grammar-Check-Ai/) •
+[🔒 Privacy Policy](https://kreggscode.github.io/Grammar-Check-Ai/privacy-policy.html) •
 [📥 Download](https://chrome.google.com/webstore) •
 [🐛 Report Bug](https://github.com/kreggscode/Grammar-Check-Ai/issues)
 
