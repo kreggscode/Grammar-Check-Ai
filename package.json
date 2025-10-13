@@ -1,0 +1,16 @@
+{
+  "name": "grammar-check-screenshots",
+  "version": "1.0.0",
+  "description": "Screenshot capture tool for Grammar Check Pro landing page",
+  "main": "take-screenshots.js",
+  "scripts": {
+    "screenshots": "node take-screenshots.js",
+    "help": "node -e \"console.log('Available commands:\\n  npm run screenshots - Take automated screenshots\\n  npm run help - Show this help\\n\\nManual screenshots:\\n  Open screenshot-helper.html in browser')\""
+  },
+  "dependencies": {
+    "puppeteer": "^21.0.0"
+  },
+  "keywords": ["screenshots", "automation", "puppeteer"],
+  "author": "Grammar Check Pro",
+  "license": "MIT"
+}

@@ -12,7 +12,7 @@
 
 **Transform your writing with AI-powered grammar checking, anywhere on the web!**
 
-![Grammar Check Pro Demo](https://via.placeholder.com/800x400/10b981/ffffff?text=Landing+Page+Screenshot)
+![Grammar Check Pro Demo](https://raw.githubusercontent.com/kreggscode/Grammar-Check-Ai/main/landing-page-full.png)
 
 </div>
 
@@ -48,25 +48,25 @@
 
 ### 🌟 Landing Page Preview
 <div align="center">
-  <img src="https://via.placeholder.com/800x600/667eea/ffffff?text=Landing+Page+Hero+Section" alt="Landing Page Hero" width="80%">
+  <img src="https://raw.githubusercontent.com/kreggscode/Grammar-Check-Ai/main/landing-hero.png" alt="Landing Page Hero" width="80%">
   <p><em>Beautiful landing page with gradient hero section and feature overview</em></p>
 </div>
 
 ### 🎨 Landing Page Features
 <div align="center">
-  <img src="https://via.placeholder.com/800x400/10b981/ffffff?text=Features+Section" alt="Features Section" width="80%">
+  <img src="https://raw.githubusercontent.com/kreggscode/Grammar-Check-Ai/main/features-section.png" alt="Features Section" width="80%">
   <p><em>Comprehensive features showcase with icons and descriptions</em></p>
 </div>
 
 ### 📱 Landing Page How It Works
 <div align="center">
-  <img src="https://via.placeholder.com/800x400/059669/ffffff?text=How+It+Works+Section" alt="How It Works" width="80%">
+  <img src="https://raw.githubusercontent.com/kreggscode/Grammar-Check-Ai/main/how-it-works.png" alt="How It Works" width="80%">
   <p><em>Step-by-step user guide with numbered process</em></p>
 </div>
 
 ### 💬 Landing Page Testimonials
 <div align="center">
-  <img src="https://via.placeholder.com/800x400/7c3aed/ffffff?text=Testimonials+Section" alt="Testimonials" width="80%">
+  <img src="https://raw.githubusercontent.com/kreggscode/Grammar-Check-Ai/main/testimonials.png" alt="Testimonials" width="80%">
   <p><em>User testimonials and social proof</em></p>
 </div>
 
@@ -74,20 +74,23 @@
 
 #### Loading Animation
 <div align="center">
-  <img src="https://via.placeholder.com/600x400/10b981/ffffff?text=Beautiful+Loading+Animation" alt="Loading Animation" width="70%">
+  <img src="https://via.placeholder.com/600x400/10b981/ffffff?text=Loading+Animation+-+Take+Screenshot+from+Extension" alt="Loading Animation" width="70%">
   <p><em>Stunning loading animation with pulsing effects and progress indicators</em></p>
+  <small><em>📸 Take this screenshot while using the extension on any webpage</em></small>
 </div>
 
 #### Grammar Results
 <div align="center">
-  <img src="https://via.placeholder.com/600x400/059669/ffffff?text=AI+Grammar+Results" alt="Grammar Results" width="70%">
+  <img src="https://via.placeholder.com/600x400/059669/ffffff?text=AI+Grammar+Results+-+Take+Screenshot+from+Extension" alt="Grammar Results" width="70%">
   <p><em>Comprehensive AI analysis with quality scores and detailed corrections</em></p>
+  <small><em>📸 Take this screenshot after checking grammar on sample text</em></small>
 </div>
 
 #### Copy Features
 <div align="center">
-  <img src="https://via.placeholder.com/600x400/3b82f6/ffffff?text=Copy+Corrections" alt="Copy Features" width="70%">
+  <img src="https://via.placeholder.com/600x400/3b82f6/ffffff?text=Copy+Corrections+-+Take+Screenshot+from+Extension" alt="Copy Features" width="70%">
   <p><em>Easy copy functionality for all corrections and suggestions</em></p>
+  <small><em>📸 Take this screenshot when using copy buttons in results</em></small>
 </div>
 
 ---
