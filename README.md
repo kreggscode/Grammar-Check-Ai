@@ -174,7 +174,7 @@ cd Grammar-Check-Ai
 ### Permissions
 ```json
 {
-  "permissions": ["activeTab", "storage", "contextMenus", "scripting"],
+  "permissions": ["storage", "contextMenus"],
   "host_permissions": ["https://text.pollinations.ai/*"]
 }
 ```

@@ -6,7 +6,6 @@
   "author": "Kreggscode",
   "homepage_url": "https://kreggscode.github.io/Grammar-Check-Ai/",
   "permissions": [
-    "activeTab",
     "storage",
     "contextMenus"
   ],
