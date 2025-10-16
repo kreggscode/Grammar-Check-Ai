@@ -123,6 +123,12 @@ chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
 
     return true; // Keep the message channel open for async response
   }
+
+  if (request.action === 'getStatus') {
+    // Return extension status
+    sendResponse({ status: 'ready' });
+    return true;
+  }
 });
 
 // Create context menu item
