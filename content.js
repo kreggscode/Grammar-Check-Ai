@@ -849,20 +849,21 @@ function displayGrammarResults(result, originalText) {
       };
     });
 
-    // Close overlay button
-    const closeBtn = document.querySelector('.close-overlay-btn');
-    if (closeBtn) {
-      closeBtn.onclick = () => {
-        console.log('🎯 Grammar Check Pro: Done button clicked');
+    // Close overlay button (Done button)
+    const doneBtn = document.querySelector('button[onclick*="close-grammar-overlay"]');
+    if (doneBtn) {
+      console.log('🎯 Found Done button');
+      doneBtn.onclick = () => {
+        console.log('🎯 Done button clicked');
         hideGrammarOverlay();
       };
-      closeBtn.onmouseover = () => {
-        closeBtn.style.transform = 'translateY(-3px)';
-        closeBtn.style.boxShadow = '0 8px 24px rgba(0,0,0,0.3)';
+      doneBtn.onmouseover = () => {
+        doneBtn.style.transform = 'translateY(-3px)';
+        doneBtn.style.boxShadow = '0 8px 24px rgba(0,0,0,0.3)';
       };
-      closeBtn.onmouseout = () => {
-        closeBtn.style.transform = 'translateY(0)';
-        closeBtn.style.boxShadow = '0 4px 16px rgba(0,0,0,0.2)';
+      doneBtn.onmouseout = () => {
+        doneBtn.style.transform = 'translateY(0)';
+        doneBtn.style.boxShadow = '0 4px 16px rgba(0,0,0,0.2)';
       };
     }
 
