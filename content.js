@@ -1273,6 +1273,14 @@ window.forceShowOverlay = forceShowOverlay;
 window.emergencyCheck = emergencyCheck;
 // Note: Button functionality removed - only right-click works now
 
+// Add message listener for overlay close button
+window.addEventListener('message', (event) => {
+  if (event.data && event.data.type === 'close-grammar-overlay') {
+    console.log('🎯 Grammar Check Pro: Received close overlay message');
+    hideGrammarOverlay();
+  }
+});
+
 // Initialize the extension when DOM is ready
 if (document.readyState === 'loading') {
   document.addEventListener('DOMContentLoaded', initializeExtension);
