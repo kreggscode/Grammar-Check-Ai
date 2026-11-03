@@ -37,7 +37,7 @@ async function checkGrammar(text, retryCount = 0) {
 
   try {
     const payload = {
-      model: 'openai',
+      model: 'openai/gpt-5.4-nano',
       messages: [
         {
           role: 'system',
